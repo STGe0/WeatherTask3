@@ -61,11 +61,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Администратор\\Desktop\\Weather_telegram\\WeatherTask3\\Weather_Telegram.csproj",
+      "projectUniqueName": "C:\\Users\\Администратор\\Desktop\\Weather_telegram\\Weather_Telegram\\Weather_Telegram.csproj",
       "projectName": "Weather_Telegram",
-      "projectPath": "C:\\Users\\Администратор\\Desktop\\Weather_telegram\\WeatherTask3\\Weather_Telegram.csproj",
+      "projectPath": "C:\\Users\\Администратор\\Desktop\\Weather_telegram\\Weather_Telegram\\Weather_Telegram.csproj",
       "packagesPath": "C:\\Users\\Администратор\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Администратор\\Desktop\\Weather_telegram\\WeatherTask3\\obj\\",
+      "outputPath": "C:\\Users\\Администратор\\Desktop\\Weather_telegram\\Weather_Telegram\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
